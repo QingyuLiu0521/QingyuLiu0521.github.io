@@ -22,8 +22,12 @@ My research interests are in **speech**, **generative models**, **machine learni
 
 <span class='anchor' id='education'></span>
 
-- *2025.08 - present*: Master of Science in Engineering (MSE) in [Electrical and Computer Engineering](https://www.ece.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). GPA 3.88/4.0
-- *2020.10 - 2024.06*: Bachelor's degree in Electronic Information Engineering at [Shanghai Normal University](https://english.shnu.edu.cn/). GPA 3.95/4.0, Rank 2/523.
+- *2025.08 - present*: Master of Science in Engineering (MSE) in [Electrical and Computer Engineering](https://www.ece.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). 
+  - GPA: 3.88/4.0
+- *2020.10 - 2024.06*: Bachelor's degree in Electronic Information Engineering at [Shanghai Normal University](https://english.shnu.edu.cn/). 
+  - GPA: 3.95/4.0
+  - Rank: 2/523 (Top 0.5%)
+  - TOEFL iBT: 104
 
 # Intern
 

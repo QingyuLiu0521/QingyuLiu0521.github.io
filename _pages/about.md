@@ -38,7 +38,7 @@ My research interests are in **speech**, **generative models**, **machine learni
 ## 2026
 
 - [X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611).&nbsp;Preprint.<br>
-**Rixi Xu\***, **Qingyu Liu\***, Haitao Li, Yushen Chen, Zhikang Niu, Yunting Yang, Jian Zhao, Ke Li, Berrak Sisman, Qinyuan Cheng, Xipeng Qiu, Kai Yu, Xie Chen#.
+**Rixi Xu\***, **Qingyu Liu\***, Haitao Li, Yushen Chen, Zhikang Niu, Yunting Yang, Jian Zhao, Ke Li, Berrak Sisman, Qinyuan Cheng, Xipeng Qiu, Kai Yu, Xie Chen†.
 <br> [![paper](https://img.shields.io/badge/%F0%9F%93%84_arXiv_2026-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2605.05611)
 [![code](https://img.shields.io/badge/GitHub-Code-181717.svg?style=plastic&logo=github)](https://github.com/sunnyxrxrx/X-Voice)
 [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-ffcc4d.svg?style=plastic)](https://huggingface.co/spaces/chenxie95/X-Voice)
@@ -46,14 +46,14 @@ My research interests are in **speech**, **generative models**, **machine learni
 [![poster](https://img.shields.io/badge/Poster-CCF_Tencent_2026-7952b3.svg?style=plastic)](assets/X-Voice_poster.pdf)
 
 - [Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis](https://arxiv.org/abs/2509.14579).&nbsp;ICASSP 2026.<br>
-**Qingyu Liu**, Yushen Chen, Zhikang Niu, Chuihui Wang, Yunting Yang, Bowen Zhang, Pengcheng Zhu, Jian Zhao, Kai Yu, Xie Chen#.
+**Qingyu Liu**, Yushen Chen, Zhikang Niu, Chuihui Wang, Yunting Yang, Bowen Zhang, Pengcheng Zhu, Jian Zhao, Kai Yu, Xie Chen†.
 <br> [![paper](https://img.shields.io/badge/%F0%9F%93%84_arXiv_2025-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2509.14579)
 [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-ffcc4d.svg?style=plastic)](https://huggingface.co/spaces/chenxie95/Cross-Lingual_F5-TTS_Space)
 [![demo](https://img.shields.io/badge/Demo-Website-2ea44f.svg?style=plastic)](https://qingyuliu0521.github.io/Cross_lingual-F5-TTS/)
 [![poster](https://img.shields.io/badge/Poster-ICASSP_2026-7952b3.svg?style=plastic)](assets/CLF5_poster.pdf)
 
 - [ICSD: An Open-source Dataset for Infant Cry and Snoring Detection](https://arxiv.org/abs/2408.10561).&nbsp;Journal of the Audio Engineering Society.<br>
-**Qingyu Liu**, Longfei Song, Dongxing Xu, Yanhua Long#.
+**Qingyu Liu**, Longfei Song, Dongxing Xu, Yanhua Long†.
 <br> [![paper](https://img.shields.io/badge/%F0%9F%93%84_arXiv_2024-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2408.10561)
 [![code](https://img.shields.io/badge/GitHub-Code-181717.svg?style=plastic&logo=github)](https://github.com/QingyuLiu0521/ICSD)
 [![dataset](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-ffcc4d.svg?style=plastic)](https://huggingface.co/datasets/QingyuLiu1/ICSD)
@@ -61,7 +61,7 @@ My research interests are in **speech**, **generative models**, **machine learni
 ## 2023
 
 - [A Comparative Study of Deep Learning Methods for Infant Cry Detection](assets/NCMMSC_Liu.pdf).&nbsp;NCMMSC 2023.<br>
-**Qingyu Liu**, Li Li, Yifan Zhou, Dongxing Xu, Yanhua Long#.
+**Qingyu Liu**, Li Li, Yifan Zhou, Dongxing Xu, Yanhua Long†.
 <br> [![pdf](https://img.shields.io/badge/PDF-Paper-d73a31.svg?style=plastic&logo=adobeacrobatreader)](assets/NCMMSC_Liu.pdf)
 [![poster](https://img.shields.io/badge/Poster-NCMMSC_2023-7952b3.svg?style=plastic)](assets/NCMMSC2023_Poster.png)
 

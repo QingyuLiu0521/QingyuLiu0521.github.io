@@ -46,13 +46,13 @@ My research interests are in **speech**, **generative models**, **machine learni
   [![code](https://img.shields.io/badge/GitHub-Code-181717.svg?style=plastic&logo=github)](https://github.com/sunnyxrxrx/X-Voice)
   [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-ffcc4d.svg?style=plastic)](https://huggingface.co/spaces/chenxie95/X-Voice)
   [![demo](https://img.shields.io/badge/Demo-Website-2ea44f.svg?style=plastic)](https://sunnyxrxrx.github.io/X-Voice-Demo/)
-  [![poster](https://img.shields.io/badge/Poster-NCMMSC_2023-7952b3.svg?style=plastic)](assets/X-Voice_poster.pdf)
+  [![poster](https://img.shields.io/badge/Poster-CCF_Tencent_2026-7952b3.svg?style=plastic)](assets/X-Voice_poster.pdf)
 
 - **Qingyu Liu**, Yushen Chen, Zhikang Niu, Chuihui Wang, Yunting Yang, Bowen Zhang, Pengcheng Zhu, Jian Zhao, Kai Yu and Xie Chen†. "Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis." *ICASSP 2026*.  
   [![paper](https://img.shields.io/badge/%F0%9F%93%84_arXiv_2025-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2509.14579)
   [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-ffcc4d.svg?style=plastic)](https://huggingface.co/spaces/chenxie95/Cross-Lingual_F5-TTS_Space)
   [![demo](https://img.shields.io/badge/Demo-Website-2ea44f.svg?style=plastic)](https://qingyuliu0521.github.io/Cross_lingual-F5-TTS/)
-  [![poster](https://img.shields.io/badge/Poster-NCMMSC_2023-7952b3.svg?style=plastic)](assets/CLF5_poster.pdf)
+  [![poster](https://img.shields.io/badge/Poster-ICASSP_2026-7952b3.svg?style=plastic)](assets/CLF5_poster.pdf)
 
 - **Qingyu Liu**, Longfei Song, Dongxing Xu and Yanhua Long†. "ICSD: An Open-source Dataset for Infant Cry and Snoring Detection." *Journal of the Audio Engineering Society*.  
   [![paper](https://img.shields.io/badge/%F0%9F%93%84_arXiv_2024-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2408.10561)

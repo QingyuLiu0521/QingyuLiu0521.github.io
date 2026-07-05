@@ -13,7 +13,8 @@ Hi, I'm **Qingyu Liu (刘庆宇)**. I am currently a Master of Science in Engine
 My research interests are in **speech**, **generative models**, **machine learning**, and **deep learning**. Currently, I focus on:
 
 - Text to Speech
-- Voice Conversion
+- Unified Speech Representation
+- Unified Multimodal Understanding and Generation
 
 **I'm a Manchester United fanatic, and my dream is to see them conquer the Premier League once more. Feel free to reach out if you want to talk footy!**
 

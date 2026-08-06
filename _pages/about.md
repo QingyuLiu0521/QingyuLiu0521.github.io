@@ -39,6 +39,12 @@ My research interests are in **speech**, **generative models**, **machine learni
 
 ## 2026
 
+- [Cross-Lingual F5-TTS 2: A Simplified Framework for Language-Agnostic Voice Cloning](https://qingyuliu0521.github.io/Cross-Lingual_F5-TTS_2_demo/).&nbsp;Under Review.<br>
+**Qingyu Liu\***, **Rixi Xu\***, Yushen Chen, Zhikang Niu, Haitao Li, Pengcheng Zhu, Bowen Zhang, Jian Zhao, Yunting Yang, Qinyuan Cheng, Xipeng Qiu, Berrak Sisman, Kai Yu, Xie Chen†.
+<br> [![code](https://img.shields.io/badge/GitHub-Code-181717.svg?style=plastic&logo=github)](https://github.com/QingyuLiu0521/Cross-Lingual_F5-TTS_2)
+[![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-Checkpoint-ffcc4d.svg?style=plastic)](https://huggingface.co/QingyuLiu1/Cross-Lingual_F5-TTS_2)
+[![demo](https://img.shields.io/badge/Demo-Website-2ea44f.svg?style=plastic)](https://qingyuliu0521.github.io/Cross-Lingual_F5-TTS_2_demo/)
+
 - [X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning](https://arxiv.org/abs/2605.05611).&nbsp;Preprint.<br>
 **Rixi Xu\***, **Qingyu Liu\***, Haitao Li, Yushen Chen, Zhikang Niu, Yunting Yang, Jian Zhao, Ke Li, Berrak Sisman, Qinyuan Cheng, Xipeng Qiu, Kai Yu, Xie Chen†.
 <br> [![paper](https://img.shields.io/badge/%F0%9F%93%84_arXiv_2026-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2605.05611)

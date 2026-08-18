@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Qingyu Liu (刘庆宇)**. I am currently a Master of Science in Engineering (MSE) student in Electrical and Computer Engineering (ECE) at [Johns Hopkins University](https://www.jhu.edu/), where I am affiliated with the Smile Lab at the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/) under the mentorship of [Prof. Berrak Sisman](https://engineering.jhu.edu/faculty/berrak-sisman/). I also work as a remote research assistant at Shanghai Jiao Tong University [X-LANCE Lab](https://x-lance.github.io/) under the mentorship of [Prof. Xie Chen](https://chenxie95.github.io/en). I completed my undergraduate studies at Shanghai Normal University under the mentorship of [Prof. Yanhua Long](https://teacher.shnu.edu.cn/xxjdgcxy/lyh/list.htm).
+Hi, I'm **Qingyu Liu (刘庆宇)**. I am currently a Master of Science in Engineering (MSE) student in Electrical and Computer Engineering (ECE) at [Johns Hopkins University](https://www.jhu.edu/), where I am affiliated with the Smile Lab at the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/) under the mentorship of [Prof. Berrak Sisman](https://engineering.jhu.edu/faculty/berrak-sisman/). I also work as a research assistant at Shanghai Jiao Tong University [X-LANCE Lab](https://x-lance.github.io/) under the mentorship of [Prof. Xie Chen](https://chenxie95.github.io/en). I completed my undergraduate studies at Shanghai Normal University under the mentorship of [Prof. Yanhua Long](https://teacher.shnu.edu.cn/xxjdgcxy/lyh/list.htm).
 
 My research interests are in **speech**, **generative models**, **machine learning**, and **deep learning**. Currently, I focus on:
 

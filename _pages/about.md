@@ -28,7 +28,7 @@ My research interests are in **speech**, **generative models**, **machine learni
 
 # 💻 Intern
 
-- *2026.06 - present*: Research Intern at [Tencent Hunyuan](https://hunyuan.tencent.com/).
+- *2026.06 - 2026.09*: Research Intern at [Tencent Hunyuan](https://hunyuan.tencent.com/).
 - *2025.12 - present*: Research Assistant in the [Smile Lab](https://sites.google.com/view/jhusmile/homepage) at [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/).
 - *2024.08 - present*: Research Assistant in the [Cross Media (X-)Language Intelligence Lab](https://x-lance.github.io/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 

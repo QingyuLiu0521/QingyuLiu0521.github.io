@@ -32,10 +32,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
       {% if author.cv_en %}
-        <li><a href="{{ author.cv_en }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV_EN</a></li>
-      {% endif %}
-      {% if author.cv_zh %}
-        <li><a href="{{ author.cv_zh }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV_ZH</a></li>
+        <li><a href="{{ author.cv_en }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>

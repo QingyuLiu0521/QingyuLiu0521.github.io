@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Qingyu Liu"
-description              : "MSE Student @ CLSP | Research Assistant @ X-LANCE Lab | Intern @ Tecent Hunyuan"
+description              : "MSE Student @ CLSP | Research Assistant @ X-LANCE Lab | Former Intern @ Tencent Hunyuan"
 repository               : "QingyuLiu0521/QingyuLiu0521.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -20,7 +20,7 @@ author:
   location         : "Baltimore, MD, USA"
   employer         : "CLSP, Johns Hopkins University"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=9m7i1OIAAAAJ&hl=zh-CN"
   email            : "qliu91@jh.edu"
   researchgate     :
   uri              : "https://qingyuliu0521.github.io/"
@@ -38,7 +38,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "qingyu-liu-8005b9308"
   dblp             :
   orcid            :
   pinterest        :

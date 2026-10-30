@@ -38,7 +38,7 @@ My research interests are in **speech**, **generative models**, **machine learni
 
 ## 2026
 
-- [Cross-Lingual F5-TTS 2: A Simplified Framework for Language-Agnostic Voice Cloning](https://qingyuliu0521.github.io/Cross-Lingual_F5-TTS_2_demo/).&nbsp;Under review at TASLP.<br>
+- [Cross-Lingual F5-TTS 2: A Simplified Framework for Language-Agnostic Voice Cloning](https://arxiv.org/abs/2609.15184).&nbsp;Under review at TASLP.<br>
 **Qingyu Liu\***, Rixi Xu\*, Yushen Chen, Zhikang Niu, Haitao Li, Pengcheng Zhu, Bowen Zhang, Jian Zhao, Yunting Yang, Qinyuan Cheng, Xipeng Qiu, Berrak Sisman, Kai Yu, Xie Chen†.
 <br> [![paper](https://img.shields.io/badge/%F0%9F%93%84_arXiv_2026-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2609.15184)
 [![code](https://img.shields.io/badge/GitHub-Code-181717.svg?style=plastic&logo=github)](https://github.com/QingyuLiu0521/Cross-Lingual_F5-TTS_2)

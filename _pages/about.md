@@ -15,7 +15,7 @@ My research interests are in **speech**, **generative models**, **machine learni
 - Text to Speech
 - Speech Translation
 
-**I'm a Manchester United fanatic, and my dream is to see them conquer the Premier League once more. Feel free to reach out if you want to talk footy!**
+**~~I'm a Manchester United fanatic, and my dream is to see them conquer the Premier League once more. Feel free to reach out if you want to talk footy!~~ Manchester United always let their loyal fans down.**
 
 # 📖 Education
 

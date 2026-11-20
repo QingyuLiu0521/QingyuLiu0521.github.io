@@ -19,8 +19,8 @@ My research interests are in **speech**, **generative models**, **machine learni
 
 # 📖 Education
 
-- *2027.01 - 2030.05 (expected)*: Ph.D. in Computer Science at [Johns Hopkins University](https://www.jhu.edu/).
-- *2025.08 - 2026.12*: Master of Science in Engineering (MSE) in [Electrical and Computer Engineering](https://www.ece.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). 
+- *2027.01 - 2030.05 (expected)*: Ph.D. in [Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/).
+- *2025.08 - 2026.12*: M.S.E. in [Electrical and Computer Engineering](https://www.ece.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/).
   - GPA: 3.86/4.0
 - *2020.10 - 2024.06*: Bachelor's degree in Electronic Information Engineering at [Shanghai Normal University](https://english.shnu.edu.cn/). 
   - GPA: 3.95/4.0

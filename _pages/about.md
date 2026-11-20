@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Qingyu Liu (刘庆宇)**. Currently I'm a Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), where I am affiliated with the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), co-advised by [Prof. Berrak Sisman](https://engineering.jhu.edu/faculty/berrak-sisman/) and [Prof. Philipp Koehn](https://www.cs.jhu.edu/~phi/). I also collaborate closely with [Prof. Xie Chen](https://chenxie95.github.io/en) at Shanghai Jiao Tong University [X-LANCE Lab](https://x-lance.github.io/). Before that, I completed my M.S.E. in Electrical and Computer Engineering at JHU and my undergraduate studies at Shanghai Normal University under the supervision of [Prof. Yanhua Long](https://teacher.shnu.edu.cn/xxjdgcxy/lyh/list.htm).
+Hi, I'm **Qingyu Liu (刘庆宇)**. Currently I'm a Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), where I am affiliated with the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), co-advised by [Prof. Berrak Sisman](https://engineering.jhu.edu/faculty/berrak-sisman/) and [Prof. Philipp Koehn](https://www.cs.jhu.edu/~phi/). I also collaborate closely with [Prof. Xie Chen](https://chenxie95.github.io/en) at Shanghai Jiao Tong University [X-LANCE Lab](https://x-lance.github.io/). I completed my M.S.E. in Electrical and Computer Engineering at JHU. Before that, I received my bachelor's degree from Shanghai Normal University under the supervision of [Prof. Yanhua Long](https://teacher.shnu.edu.cn/xxjdgcxy/lyh/list.htm).
 
 My research interests are in **speech**, **generative models**, **machine learning**, and **deep learning**. Currently, I focus on:
 

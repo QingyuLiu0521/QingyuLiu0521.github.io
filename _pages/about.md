@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Qingyu Liu (刘庆宇)**. I am currently a Master of Science in Engineering (MSE) student in Electrical and Computer Engineering (ECE) at [Johns Hopkins University](https://www.jhu.edu/), where I am affiliated with the Smile Lab at the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/) under the supervision of [Prof. Berrak Sisman](https://engineering.jhu.edu/faculty/berrak-sisman/) and [Prof. Philipp Koehn](https://www.cs.jhu.edu/~phi/). I also work as a research assistant at Shanghai Jiao Tong University [X-LANCE Lab](https://x-lance.github.io/) under the supervision of [Prof. Xie Chen](https://chenxie95.github.io/en). I completed my undergraduate studies at Shanghai Normal University under the supervision of [Prof. Yanhua Long](https://teacher.shnu.edu.cn/xxjdgcxy/lyh/list.htm).
+Hi, I'm **Qingyu Liu (刘庆宇)**. I am a Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), where I am affiliated with the Smile Lab at the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), co-advised by [Prof. Berrak Sisman](https://engineering.jhu.edu/faculty/berrak-sisman/) and [Prof. Philipp Koehn](https://www.cs.jhu.edu/~phi/). I also collaborate closely with [Prof. Xie Chen](https://chenxie95.github.io/en) at Shanghai Jiao Tong University [X-LANCE Lab](https://x-lance.github.io/). I completed my M.S.E. in Electrical and Computer Engineering at JHU in December 2026, and my undergraduate studies at Shanghai Normal University under the supervision of [Prof. Yanhua Long](https://teacher.shnu.edu.cn/xxjdgcxy/lyh/list.htm).
 
 My research interests are in **speech**, **generative models**, **machine learning**, and **deep learning**. Currently, I focus on:
 
@@ -19,8 +19,9 @@ My research interests are in **speech**, **generative models**, **machine learni
 
 # 📖 Education
 
-- *2025.08 - present*: Master of Science in Engineering (MSE) in [Electrical and Computer Engineering](https://www.ece.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). 
-  - GPA: 3.88/4.0
+- *2027.01 - 2030.05 (expected)*: Ph.D. in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), co-advised by Prof. Berrak Sisman and Prof. Philipp Koehn.
+- *2025.08 - 2026.12*: Master of Science in Engineering (MSE) in [Electrical and Computer Engineering](https://www.ece.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). 
+  - GPA: 3.86/4.0
 - *2020.10 - 2024.06*: Bachelor's degree in Electronic Information Engineering at [Shanghai Normal University](https://english.shnu.edu.cn/). 
   - GPA: 3.95/4.0
   - Rank: 2/523 (Top 0.5%)
